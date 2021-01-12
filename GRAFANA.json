@@ -1,0 +1,2763 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": "-- Grafana --",
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "gnetId": null,
+  "graphTooltip": 0,
+  "id": 1,
+  "links": [],
+  "panels": [
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 0,
+        "y": 0
+      },
+      "id": 5,
+      "options": {
+        "content": "<center><img src=\"https://i.pinimg.com/originals/42/4f/62/424f621770a020d114e440bf5f80ee47.png\" width=\"80px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 3,
+        "y": 0
+      },
+      "id": 35,
+      "options": {
+        "content": "<br>\r\n<center><img src=\"https://cdn.pixabay.com/photo/2015/04/13/17/45/icon-720944_960_720.png\" width=\"120px\"/></center>\r\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 6,
+        "y": 0
+      },
+      "id": 31,
+      "options": {
+        "content": "<center><img src=\"https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png\" width=\"80px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 9,
+        "y": 0
+      },
+      "id": 29,
+      "options": {
+        "content": "<center><img src=\"http://repo.chn.net.br/grafana/netflix.png\" width=\"120px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 12,
+        "y": 0
+      },
+      "id": 6,
+      "options": {
+        "content": "<center><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png\" width=\"80px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 15,
+        "y": 0
+      },
+      "id": 27,
+      "options": {
+        "content": "<center><img src=\"https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png\" width=\"80px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 18,
+        "y": 0
+      },
+      "id": 13,
+      "options": {
+        "content": "<center><img src=\"https://lh3.googleusercontent.com/X2GyQDCfu91wBofnmkk4zD4RjO9-zSVdMSlheTy8MsAxfFyoiFDb5gx9HNbvEB3Czg\" width=\"80px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 21,
+        "y": 0
+      },
+      "id": 33,
+      "options": {
+        "content": "<br>\n<center><img src=\"http://repo.chn.net.br/grafana/google.png\" width=\"140px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": "Zabbix",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 0,
+        "y": 3
+      },
+      "id": 18,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Facebook"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 3,
+        "y": 3
+      },
+      "id": 51,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Youtube"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 6,
+        "y": 3
+      },
+      "id": 46,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "WhatsApp"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 9,
+        "y": 3
+      },
+      "id": 45,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Uol"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 12,
+        "y": 3
+      },
+      "id": 47,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Instagram"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 15,
+        "y": 3
+      },
+      "id": 50,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Twitter"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 18,
+        "y": 3
+      },
+      "id": 48,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Globo"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "dark-green",
+                "value": null
+              },
+              {
+                "color": "dark-orange",
+                "value": 100
+              },
+              {
+                "color": "dark-red",
+                "value": 150
+              }
+            ]
+          },
+          "unit": "s"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 21,
+        "y": 3
+      },
+      "id": 49,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": "Status"
+          },
+          "functions": [],
+          "group": {
+            "filter": "SITES"
+          },
+          "host": {
+            "filter": "Google"
+          },
+          "item": {
+            "filter": "Tempo de Resposta"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 3,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 6,
+        "w": 4,
+        "x": 0,
+        "y": 6
+      },
+      "id": 68,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "none",
+        "justifyMode": "auto",
+        "orientation": "vertical",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface sfp-sfpplus1(WINET TELECOM): Tráf. Entrada"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "TRAFEGO TOTAL",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 1,
+        "w": 16,
+        "x": 4,
+        "y": 6
+      },
+      "id": 72,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "mean"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "none"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 6,
+        "w": 4,
+        "x": 20,
+        "y": 6
+      },
+      "id": 64,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "none",
+        "justifyMode": "auto",
+        "orientation": "vertical",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "value"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "NAS FTTH"
+          },
+          "item": {
+            "filter": "CLIENTES"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "CLIENTES UP",
+      "type": "stat"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "max": 30,
+          "min": 0,
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              },
+              {
+                "color": "yellow",
+                "value": 15
+              }
+            ]
+          },
+          "unit": "percent"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 6,
+        "x": 4,
+        "y": 7
+      },
+      "id": 59,
+      "options": {
+        "displayMode": "gradient",
+        "orientation": "vertical",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "showUnfilled": true
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [
+            {
+              "def": {
+                "category": "Alias",
+                "defaultParams": [],
+                "name": "setAlias",
+                "params": [
+                  {
+                    "name": "alias",
+                    "type": "string"
+                  }
+                ]
+              },
+              "params": [
+                "BGP"
+              ],
+              "text": "setAlias(BGP)",
+              "$$hashKey": "object:309"
+            }
+          ],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "CPU Load"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "B",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [
+            {
+              "def": {
+                "category": "Alias",
+                "defaultParams": [],
+                "name": "setAlias",
+                "params": [
+                  {
+                    "name": "alias",
+                    "type": "string"
+                  }
+                ]
+              },
+              "params": [
+                "CGNAT"
+              ],
+              "text": "setAlias(CGNAT)",
+              "$$hashKey": "object:330"
+            }
+          ],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "iBGP CGNAT"
+          },
+          "item": {
+            "filter": "CPU Load"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "C",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [
+            {
+              "def": {
+                "category": "Alias",
+                "defaultParams": [],
+                "name": "setAlias",
+                "params": [
+                  {
+                    "name": "alias",
+                    "type": "string"
+                  }
+                ]
+              },
+              "params": [
+                "FTTH"
+              ],
+              "text": "setAlias(FTTH)",
+              "$$hashKey": "object:288"
+            }
+          ],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "NAS FTTH"
+          },
+          "item": {
+            "filter": "CPU Load"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "USO MEDIO DE CPU",
+      "type": "bargauge"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 4,
+        "x": 10,
+        "y": 7
+      },
+      "id": 71,
+      "options": {
+        "content": "<br>\n<br>\n<center><img src=\"http://repo.chn.net.br/grafana/CHNETWORK_WHITE.png\" width=\"270px\"/></center>\n",
+        "mode": "html"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "mode": 0,
+          "options": {
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "text"
+    },
+    {
+      "datasource": null,
+      "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "decimals": 0,
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              },
+              {
+                "color": "yellow",
+                "value": 30
+              }
+            ]
+          },
+          "unit": "percent"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 5,
+        "w": 6,
+        "x": 14,
+        "y": 7
+      },
+      "id": 70,
+      "options": {
+        "displayMode": "gradient",
+        "orientation": "vertical",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "showUnfilled": true
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [
+            {
+              "def": {
+                "category": "Alias",
+                "defaultParams": [],
+                "name": "setAlias",
+                "params": [
+                  {
+                    "name": "alias",
+                    "type": "string"
+                  }
+                ]
+              },
+              "params": [
+                "BGP"
+              ],
+              "text": "setAlias(BGP)",
+              "$$hashKey": "object:390"
+            }
+          ],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Temperatura"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "B",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [
+            {
+              "def": {
+                "category": "Alias",
+                "defaultParams": [],
+                "name": "setAlias",
+                "params": [
+                  {
+                    "name": "alias",
+                    "type": "string"
+                  }
+                ]
+              },
+              "params": [
+                "CGNAT"
+              ],
+              "text": "setAlias(CGNAT)",
+              "$$hashKey": "object:411"
+            }
+          ],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "iBGP CGNAT"
+          },
+          "item": {
+            "filter": "Temperatura"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "C",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [
+            {
+              "def": {
+                "category": "Alias",
+                "defaultParams": [],
+                "name": "setAlias",
+                "params": [
+                  {
+                    "name": "alias",
+                    "type": "string"
+                  }
+                ]
+              },
+              "params": [
+                "FTTH"
+              ],
+              "text": "setAlias(FTTH)",
+              "$$hashKey": "object:369"
+            }
+          ],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "NAS FTTH"
+          },
+          "item": {
+            "filter": "Temperatura"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "TEMPERATURA",
+      "type": "bargauge"
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 1,
+        "w": 24,
+        "x": 0,
+        "y": 12
+      },
+      "id": 65,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "mean"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "none"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    },
+    {
+      "aliasColors": {
+        "Interface ether3_BORDA 1036(): Tráf. Entrada": "blue"
+      },
+      "bars": false,
+      "dashLength": 10,
+      "dashes": false,
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "fill": 10,
+      "fillGradient": 0,
+      "gridPos": {
+        "h": 14,
+        "w": 12,
+        "x": 0,
+        "y": 13
+      },
+      "hiddenSeries": false,
+      "id": 53,
+      "legend": {
+        "avg": false,
+        "current": false,
+        "max": false,
+        "min": false,
+        "show": false,
+        "total": false,
+        "values": false
+      },
+      "lines": true,
+      "linewidth": 1,
+      "nullPointMode": "null",
+      "options": {
+        "alertThreshold": true
+      },
+      "percentage": false,
+      "pluginVersion": "7.3.6",
+      "pointradius": 2,
+      "points": false,
+      "renderer": "flot",
+      "seriesOverrides": [],
+      "spaceLength": 10,
+      "stack": false,
+      "steppedLine": false,
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface sfp-sfpplus1(WINET TELECOM): Tráf. Entrada"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface sfp-sfpplus1(WINET TELECOM): Tráf. Saída"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "B",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "thresholds": [],
+      "timeFrom": null,
+      "timeRegions": [],
+      "timeShift": null,
+      "title": "TRAFEGO TOTAL",
+      "tooltip": {
+        "shared": true,
+        "sort": 0,
+        "value_type": "individual"
+      },
+      "type": "graph",
+      "xaxis": {
+        "buckets": null,
+        "mode": "time",
+        "name": null,
+        "show": true,
+        "values": []
+      },
+      "yaxes": [
+        {
+          "$$hashKey": "object:128",
+          "format": "bps",
+          "label": null,
+          "logBase": 1,
+          "max": null,
+          "min": null,
+          "show": true
+        },
+        {
+          "$$hashKey": "object:129",
+          "format": "short",
+          "label": null,
+          "logBase": 1,
+          "max": null,
+          "min": null,
+          "show": true
+        }
+      ],
+      "yaxis": {
+        "align": false,
+        "alignLevel": null
+      }
+    },
+    {
+      "aliasColors": {
+        "Interface ether3_BORDA 1036(): Tráf. Entrada": "blue"
+      },
+      "bars": false,
+      "dashLength": 10,
+      "dashes": false,
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "fill": 10,
+      "fillGradient": 0,
+      "gridPos": {
+        "h": 7,
+        "w": 12,
+        "x": 12,
+        "y": 13
+      },
+      "hiddenSeries": false,
+      "id": 61,
+      "legend": {
+        "avg": false,
+        "current": false,
+        "max": false,
+        "min": false,
+        "show": false,
+        "total": false,
+        "values": false
+      },
+      "lines": true,
+      "linewidth": 1,
+      "nullPointMode": "null",
+      "options": {
+        "alertThreshold": true
+      },
+      "percentage": false,
+      "pluginVersion": "7.3.6",
+      "pointradius": 2,
+      "points": false,
+      "renderer": "flot",
+      "seriesOverrides": [],
+      "spaceLength": 10,
+      "stack": false,
+      "steppedLine": false,
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface vlan3370 - IX_SP_V4(PTT-SP V4): Tráf. Entrada"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface vlan3370 - IX_SP_V4(PTT-SP V4): Tráf. Saída"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "B",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "thresholds": [],
+      "timeFrom": null,
+      "timeRegions": [],
+      "timeShift": null,
+      "title": "TRAFEGO PTT",
+      "tooltip": {
+        "shared": true,
+        "sort": 0,
+        "value_type": "individual"
+      },
+      "type": "graph",
+      "xaxis": {
+        "buckets": null,
+        "mode": "time",
+        "name": null,
+        "show": true,
+        "values": []
+      },
+      "yaxes": [
+        {
+          "$$hashKey": "object:128",
+          "format": "bps",
+          "label": null,
+          "logBase": 1,
+          "max": null,
+          "min": null,
+          "show": true
+        },
+        {
+          "$$hashKey": "object:129",
+          "format": "short",
+          "label": null,
+          "logBase": 1,
+          "max": null,
+          "min": null,
+          "show": true
+        }
+      ],
+      "yaxis": {
+        "align": false,
+        "alignLevel": null
+      }
+    },
+    {
+      "aliasColors": {
+        "Interface ether3_BORDA 1036(): Tráf. Entrada": "blue"
+      },
+      "bars": false,
+      "dashLength": 10,
+      "dashes": false,
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {}
+        },
+        "overrides": []
+      },
+      "fill": 10,
+      "fillGradient": 0,
+      "gridPos": {
+        "h": 7,
+        "w": 12,
+        "x": 12,
+        "y": 20
+      },
+      "hiddenSeries": false,
+      "id": 60,
+      "legend": {
+        "avg": false,
+        "current": false,
+        "max": false,
+        "min": false,
+        "show": false,
+        "total": false,
+        "values": false
+      },
+      "lines": true,
+      "linewidth": 1,
+      "nullPointMode": "null",
+      "options": {
+        "alertThreshold": true
+      },
+      "percentage": false,
+      "pluginVersion": "7.3.6",
+      "pointradius": 2,
+      "points": false,
+      "renderer": "flot",
+      "seriesOverrides": [],
+      "spaceLength": 10,
+      "stack": false,
+      "steppedLine": false,
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface vlan2018(TRANSITO WINET): Tráf. Entrada"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        },
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": "BACKBONE"
+          },
+          "host": {
+            "filter": "BGP"
+          },
+          "item": {
+            "filter": "Interface vlan2018(TRANSITO WINET): Tráf. Saída"
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "B",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "thresholds": [],
+      "timeFrom": null,
+      "timeRegions": [],
+      "timeShift": null,
+      "title": "TRAFEGO IP",
+      "tooltip": {
+        "shared": true,
+        "sort": 0,
+        "value_type": "individual"
+      },
+      "type": "graph",
+      "xaxis": {
+        "buckets": null,
+        "mode": "time",
+        "name": null,
+        "show": true,
+        "values": []
+      },
+      "yaxes": [
+        {
+          "$$hashKey": "object:128",
+          "format": "bps",
+          "label": null,
+          "logBase": 1,
+          "max": null,
+          "min": null,
+          "show": true
+        },
+        {
+          "$$hashKey": "object:129",
+          "format": "short",
+          "label": null,
+          "logBase": 1,
+          "max": null,
+          "min": null,
+          "show": true
+        }
+      ],
+      "yaxis": {
+        "align": false,
+        "alignLevel": null
+      }
+    },
+    {
+      "datasource": null,
+      "fieldConfig": {
+        "defaults": {
+          "custom": {},
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 1,
+        "w": 24,
+        "x": 0,
+        "y": 27
+      },
+      "id": 16,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "mean"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "none"
+      },
+      "pluginVersion": "7.3.6",
+      "targets": [
+        {
+          "application": {
+            "filter": ""
+          },
+          "functions": [],
+          "group": {
+            "filter": ""
+          },
+          "host": {
+            "filter": ""
+          },
+          "item": {
+            "filter": ""
+          },
+          "options": {
+            "disableDataAlignment": false,
+            "showDisabledItems": false,
+            "skipEmptyValues": false
+          },
+          "proxy": {
+            "filter": ""
+          },
+          "queryType": 0,
+          "refId": "A",
+          "resultFormat": "time_series",
+          "table": {
+            "skipEmptyValues": false
+          },
+          "tags": {
+            "filter": ""
+          },
+          "trigger": {
+            "filter": ""
+          },
+          "triggers": {
+            "acknowledged": 2,
+            "count": true,
+            "minSeverity": 3
+          }
+        }
+      ],
+      "timeFrom": null,
+      "timeShift": null,
+      "title": "",
+      "type": "stat"
+    }
+  ],
+  "refresh": "1m",
+  "schemaVersion": 26,
+  "style": "dark",
+  "tags": [],
+  "templating": {
+    "list": []
+  },
+  "time": {
+    "from": "now-12h",
+    "to": "now"
+  },
+  "timepicker": {},
+  "timezone": "",
+  "title": "Backbone",
+  "uid": "xGN-DJWMk",
+  "version": 12
+}
